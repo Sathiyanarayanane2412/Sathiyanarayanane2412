@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sathiyanarayanan E</h1>
-<h3 align="center">A passionate Fullstack developer and Software Developer.</h3>
+<h3 align="center">A Software Developer and passionate Fullstack developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 - 🔭 I’m currently working on **FullStack development**
 

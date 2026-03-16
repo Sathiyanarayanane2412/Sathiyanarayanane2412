@@ -9,15 +9,7 @@
 
 - 🤝 I’m looking for help with **Open source project**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/sathiyanarayanan_E](https://linktr.ee/sathiyanarayanan_E)
-
-- 📝 I regularly write articles on [https://docs.google.com/document/d/1zCs8I2M8LomC2U3Ms6ZzFTFZspxzjtMGeBb6lZIn5VY/edit?usp=sharing](https://docs.google.com/document/d/1zCs8I2M8LomC2U3Ms6ZzFTFZspxzjtMGeBb6lZIn5VY/edit?usp=sharing)
-
 - 💬 Ask me about **Software development and web development**
 
 - 📫 How to reach me **sathiyanarayanane2412@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1zCs8I2M8LomC2U3Ms6ZzFTFZspxzjtMGeBb6lZIn5VY/edit?usp=sharing](https://sathiyanarayanan-655d0.web.app/)
-
-- ⚡ Fun fact **I think I am Funny**
 
